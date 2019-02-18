@@ -58,4 +58,5 @@ code --install-extension ms-mssql.mssql
 code --install-extension octref.vetur
 code --install-extension oderwat.indent-rainbow
 code --install-extension pkief.material-icon-theme
+code --install-extension equinusocio.vsc-material-theme
 
