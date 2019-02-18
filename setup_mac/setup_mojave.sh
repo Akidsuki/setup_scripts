@@ -56,3 +56,6 @@ code --install-extension saviorisdead.rustycode
 code --install-extension robinbentley.sass-indented
 code --install-extension ms-mssql.mssql
 code --install-extension octref.vetur
+code --install-extension oderwat.indent-rainbow
+code --install-extension pkief.material-icon-theme
+
